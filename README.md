@@ -125,9 +125,9 @@ Conclusion & Future Work
 🔗 Links
 
 Google Colab Notebook: Open in Colab
- ← (Add your public Colab link here)
+https://colab.research.google.com/drive/1e4EUeKQgyFiFJtaiJNzk3OVBtVFQrn8j?usp=sharing
 
-GitHub Repository: https://github.com/yourusername/ds_Tharun
+
 
 🏁 Conclusion
 
